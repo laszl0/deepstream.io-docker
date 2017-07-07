@@ -3,9 +3,9 @@ Deepstream.io Docker Image For Kontena Usage
 
 This is a standalone docker image for the deepstream.io server. 
 It can be used as a single instance or within a Deepstream cluster.
+
 What makes it different from the [official](https://github.com/deepstreamIO/deepstream.io-docker) image 
 is the usage with Environment variables.
-
 The config file and the permissions files are generated using ruby erb.
 
 ## Usage
